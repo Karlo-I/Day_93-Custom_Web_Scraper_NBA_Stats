@@ -1,5 +1,7 @@
 Below is a self-reflection I have submitted to the course provider after completing the project, which I believe will help provide background for this repository.
 
+Reflection:
+
 I approached this project by starting with locating the previous tutorials on web scraping and saving data in a CSV file, then relearning the topics covered.
 
 There are several approaches to web scraping, such as using either the BeautifulSoup module or the Selenium module. I opted for the latter as it is the more advanced and interactive tool.
