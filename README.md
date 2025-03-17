@@ -1,4 +1,4 @@
-Below is a self-reflection after submitting the project to the course provider, which I believe will help provide background for this repository.
+Below is a self-reflection I have submitted to the course provider after completing the project, which I believe will help provide background for this repository.
 
 I approached this project by starting with locating the previous tutorials on web scraping and saving data in a CSV file, then relearning the topics covered.
 
